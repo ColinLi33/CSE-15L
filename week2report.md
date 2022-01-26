@@ -12,7 +12,7 @@
 * Find your course account [here](https://sdacs.ucsd.edu/~icc/index.php)
     > Your course account will begin with cs15lwi22 and have 3 unique characters ending it
 
-* Open your terminal on VSCode by going to Terminal -> New Terminal or the shortcut: Control + Shift + ` 
+* Open your terminal on VSCode by going to Terminal -> New Terminal or the shortcut: Control + Shift + `
 ![Image](https://i.imgur.com/ZrboxTv.png)
 
 * Type the command below and replace [unique characters] with the ones from your account
@@ -28,9 +28,9 @@ ssh cs15lwi22[unique chacters]@ieng6.ucsd.edu
 ## 3. Cool Commands!
 * Now that you have successfully connected to your remote machine, you might be wondering, how do I do anything without a screen? *Try some commands!*
 
-* ls -> this lists all the files in the current directory
-* cd -> this changes the directory you are in (cd .. will go backwards)
-* clear -> this clears your terminal
+* `ls` -> this lists all the files in the current directory
+* `cd` -> this changes the directory you are in (cd .. will go backwards)
+* `clear` -> this clears your terminal
 
 ![Image](https://i.imgur.com/kC9Fh0q.png)
 
