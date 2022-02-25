@@ -7,8 +7,7 @@
 ![Image](./week6report/publicKey.png)
 
 * Here is my private key that I will not show
-
-![Image](./week6report/privatekey.png)
+![Image](./week6report/privateKey.png)
 
 ## 2. Run Git Commands
 * Now I can run git commands from the remote machine!!
