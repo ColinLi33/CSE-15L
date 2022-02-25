@@ -7,6 +7,7 @@
 ![Image](./week6report/publicKey.png)
 
 * Here is my private key that I will not show
+
 ![Image](./week6report/privatekey.png)
 
 ## 2. Run Git Commands
