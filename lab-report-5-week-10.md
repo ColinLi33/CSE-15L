@@ -5,11 +5,13 @@
 
 # Case #1
 * This was 201.md
+
 ```
 [foo]: <bar>(baz)
 
 [foo]
 ```
+
 * Expected output: ```[]```
 
 * My output: ```[baz]```
@@ -24,9 +26,11 @@ if (nextCloseBracket + 1 == openParen) {
 ```
 # Case #2
 * This was 577.md
+
 ```
 ![foo](train.jpg)
 ```
+
 * Expected output: ```[]```
 
 * My output: ```[]```
